@@ -115,6 +115,7 @@
   .contacto_content{
     display: flex;
     justify-content: space-between;
+    background-color: gray;
   }
   @media(min-width:834px){
     .content_perfil {
